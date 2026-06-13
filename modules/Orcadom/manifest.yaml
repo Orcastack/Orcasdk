@@ -1,0 +1,8 @@
+manifest:
+  version: 0.13
+
+  projects:
+    - name: orcadom
+      url: https://github.com/Orcastack/Orcadom
+      path: modules/orcadom
+      revision: main
